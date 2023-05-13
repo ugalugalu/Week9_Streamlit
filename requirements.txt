@@ -5,4 +5,5 @@ python-nvd3==0.15.0
 streamlit==0.87.0
 praw==7.4.0
 matplotlib==3.4.2
+python==3.9.0
 
