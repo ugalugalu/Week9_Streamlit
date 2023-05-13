@@ -47,7 +47,7 @@ def Extract(limit):
     df = pd.DataFrame(post_list)
     return df
 
-# st.set_page_config(page_title="Ubo G", page_icon="favico.ico")
+st.set_page_config(page_title="Ubo G", page_icon="favico.ico")
 
 st.sidebar.title('Reddit Data Analysis')
 
