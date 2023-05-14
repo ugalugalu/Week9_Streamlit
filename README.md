@@ -16,7 +16,8 @@ added into a list that will be loaded as a dataframe for visualization in stream
 
 Below is a screen shot of dashboard deployed locally and when the same is deployed on google cloud!
 
-[Uploading Screenshot 2023-05-14 at 16.09.47.png…]()
+![image](https://github.com/ugalugalu/Week9_Streamlit/assets/54645939/032f99a0-3260-4ff4-8b4c-0097c5c1e266)
+
 
 ![image](https://github.com/ugalugalu/Week9_Streamlit/assets/54645939/9af6f658-bd07-495a-a9f8-a4c1c64e7022)
 
