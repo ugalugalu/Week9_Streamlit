@@ -1,4 +1,5 @@
 **Problem Statement**
+
 Fraud in telecommunications is a significant problem that costs the industry billions of dollars
 annually. Fraudsters use various techniques to exploit telecom infrastructure weaknesses,
 including hacking into phone systems, stealing identities, and exploiting vulnerabilities in billing
@@ -11,12 +12,16 @@ as the post text, user name, subreddit, and date/time, and use this information 
 data for patterns and trends related to telecom fraud.
 
 **Fraud Detection**
+
 The algorithm employed is a simple search of the fraud keywords against the post title and body. If any keyword is matched, the post is 
 added into a list that will be loaded as a dataframe for visualization in streamlit.
 
 Below is a screen shot of dashboard deployed locally and when the same is deployed on google cloud!
 
+
 ![image](https://github.com/ugalugalu/Week9_Streamlit/assets/54645939/032f99a0-3260-4ff4-8b4c-0097c5c1e266)
+
+
 
 
 ![image](https://github.com/ugalugalu/Week9_Streamlit/assets/54645939/9af6f658-bd07-495a-a9f8-a4c1c64e7022)
